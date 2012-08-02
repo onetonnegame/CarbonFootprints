@@ -1,6 +1,6 @@
 Add files with name:
 
-otg-[name of carbon footprint].js
+[name of carbon footprint].js
 
 With contents:
 
@@ -10,4 +10,5 @@ With contents:
 'footprint-low usage': 50,
 'footprint-high usage': 200,
 'category' : 'transport'
+etc.
 }
